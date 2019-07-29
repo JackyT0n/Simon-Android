@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buttonentries">
+        <item>1 Button</item>
+        <item>2 Buttons</item>
+        <item>3 Buttons</item>
+        <item>4 Buttons</item>
+        <item>5 Buttons</item>
+        <item>6 Buttons</item>
+    </string-array>
+    <string-array name="buttonvalues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="difficultyentries">
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="difficultyvalues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
